@@ -1,8 +1,0 @@
-1 1 1 1
-
-1) Explorer killer.
-2) PC rebooter.
-3) Many windows.
-
-
-.diff or .txt and add changers.
